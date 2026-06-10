@@ -13,3 +13,6 @@ Check out the [Beginner Posts](/beginner-posts/index.md).
 6. [Languages 🦀](/languages/index.md)
 7. [Learning ✒️](/learning/index.md)
 8. [Tools 🛠️](/tools/index.md)
+
+## Want to contribute?
+Check out [Contribution](contribution.md)
