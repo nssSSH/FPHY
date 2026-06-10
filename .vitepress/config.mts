@@ -1,6 +1,9 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+
+  base: '/FPHY/',
+  
   title: 'FPHY',
   description: 'Free Programming Heck Yeah!',
 
