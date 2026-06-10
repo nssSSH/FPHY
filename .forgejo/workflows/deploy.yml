@@ -7,7 +7,9 @@ on:
 
 jobs:
   build-and-deploy:
-    runs-on: ubuntu-latest
+    runs-on: docker                 
+    container:
+      image: node:20-bookworm-slim  
     steps:
       - name: Checkout Code
         uses: https://github.com/actions/checkout@v4
