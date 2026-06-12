@@ -1,0 +1,1 @@
+import{_ as e,o as n,c as t}from"./chunks/framework.CM8Dewkt.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"learning/index.md","filePath":"learning/index.md"}'),a={name:"learning/index.md"};function r(i,o,s,c,d,p){return n(),t("div")}const m=e(a,[["render",r]]);export{l as __pageData,m as default};

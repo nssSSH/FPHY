@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as r}from"./chunks/framework.CgwWDRUJ.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"career/index.md","filePath":"career/index.md"}'),a={name:"career/index.md"};function n(c,o,s,d,i,p){return t(),r("div")}const f=e(a,[["render",n]]);export{m as __pageData,f as default};

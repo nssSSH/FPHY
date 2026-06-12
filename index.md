@@ -1,3 +1,8 @@
+---
+title: "FPHY"
+date: 2026-06-10
+---
+
 # FPHY - Free Programming Heck Yeah !
 Free Programming Heck Yeah, as the name suggests, is (planning) to be a structured resource that would (hopefully) contain all the free resources related to programming and computer science.
 

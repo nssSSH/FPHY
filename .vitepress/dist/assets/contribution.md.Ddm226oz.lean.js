@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as o}from"./chunks/framework.CM8Dewkt.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"contribution.md","filePath":"contribution.md"}'),n={name:"contribution.md"};function r(a,c,i,s,p,_){return e(),o("div")}const f=t(n,[["render",r]]);export{m as __pageData,f as default};

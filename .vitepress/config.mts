@@ -9,15 +9,13 @@ export default defineConfig({
 
   themeConfig: {
     nav: [
-      { text: 'Career', link: '/career/' },
-      { text: 'Languages', link: '/languages/' },
-      { text: 'CS Fundamentals', link: '/cs-fundamentals/' },
-      { text: 'Tools', link: '/tools/' }
+      { text: 'Beginner\'s Post', link: '/beginner-posts/' },
+      { text: 'Privacy', link: '/privacy/'}
     ],
 
     sidebar: [
       {
-        text: 'Learning',
+        text: 'Categories',
         items: [
           { text: 'Career', link: '/career/' },
           { text: 'Cloud', link: '/cloud/' },
